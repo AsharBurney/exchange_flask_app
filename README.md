@@ -10,7 +10,7 @@ Display the change in exchange rates compared to the previous day.
 
 ## Technologies Used
 Python
-Flask: A micro web framework for Python.
+Flask: A micro web framework for Python./n
 boto3: The AWS SDK for Python, used to interact with AWS services.
 LocalStack: An open-source tool to emulate AWS services locally.
 DynamoDB Local: An emulated version of AWS DynamoDB provided by LocalStack.
